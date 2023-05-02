@@ -13,7 +13,7 @@
 					<div class="container">
                         <h1 style="text-align:center">WELCOME TO RAJASTHAN</h1>
                         <h4 style="text-align:center">Visit the beautiful culture of Rajasthan</h4>
-                                    <h2 style="text-align:center">Padharo Mhare Desh🙏</h2>
+                                    <h2 style="text-align:center">Padharo Mhare Desh</h2>
 						<div class="row">
 							<div class="col-sm-5 col-md-5">
 								<div class="tabulation animate-box">
