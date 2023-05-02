@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage2.master" AutoEventWireup="true" CodeFile="home.aspx.cs" Inherits="home" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage2.master" AutoEventWireup="true" CodeFile="home.aspx.cs" Inherits="home" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
@@ -7,12 +7,12 @@
        
         
        <div class="fh5co-hero">
-			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
+			<div ></div>
+			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="opacity:0.8;" href="#" ><img src="https://c4.wallpaperflare.com/wallpaper/484/985/153/jodhpur-rajasthan-india-wallpaper-preview.jpg" width="100%" height="90%">
 				<div class="desc">
 					<div class="container">
-                        <h1 style="text-align:center">WELCOME TO RAJASTHAN</h1>
-                        <h4 style="text-align:center">Visit the beautiful culture of Rajasthan</h4>
+                        <h1 style="text-align:center; color:white">WELCOME TO RAJASTHAN</h1>
+                        <h4 style="text-align:center; color:white">Visit the beautiful culture of Rajasthan</h4>
                                     <h2 style="text-align:center">Padharo Mhare Desh</h2>
 						<div class="row">
 							<div class="col-sm-5 col-md-5">
